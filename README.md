@@ -14,7 +14,11 @@
     3. 软件服务商的Token获取
 
 3. 使用说明
-
+    
+    3.0 安装
+    ```
+    composer require src/fpx
+    ```
    3.1 参数初始化
     1. appKey：就是在开发平台申请 app 的 appKey
     2. appSecret：与 appKey 相对应的 appSecret
