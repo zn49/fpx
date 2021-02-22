@@ -1,6 +1,7 @@
 {
   "name": "xrc/fpx",
   "type": "library",
+  "license": "MIT",
   "description": "A client library for 4px.",
   "autoload": {
     "psr-4": {
